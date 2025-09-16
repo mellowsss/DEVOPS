@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# SQLite database
+opspulse.db
+opspulse.db-*
+
+# Editor/OS files
+.DS_Store
+*.swp
+*.swo
